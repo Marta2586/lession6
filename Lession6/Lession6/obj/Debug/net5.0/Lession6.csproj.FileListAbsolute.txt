@@ -1,0 +1,16 @@
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\bin\Debug\net5.0\Lession6.exe
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\bin\Debug\net5.0\Lession6.deps.json
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\bin\Debug\net5.0\Lession6.runtimeconfig.json
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\bin\Debug\net5.0\Lession6.runtimeconfig.dev.json
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\bin\Debug\net5.0\Lession6.dll
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\bin\Debug\net5.0\ref\Lession6.dll
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\bin\Debug\net5.0\Lession6.pdb
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\obj\Debug\net5.0\Lession6.csproj.AssemblyReference.cache
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\obj\Debug\net5.0\Lession6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\obj\Debug\net5.0\Lession6.AssemblyInfoInputs.cache
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\obj\Debug\net5.0\Lession6.AssemblyInfo.cs
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\obj\Debug\net5.0\Lession6.csproj.CoreCompileInputs.cache
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\obj\Debug\net5.0\Lession6.dll
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\obj\Debug\net5.0\ref\Lession6.dll
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\obj\Debug\net5.0\Lession6.pdb
+C:\Users\VMIX_ITX\Desktop\Folderis Marta\Lession6\Lession6\obj\Debug\net5.0\Lession6.genruntimeconfig.cache
